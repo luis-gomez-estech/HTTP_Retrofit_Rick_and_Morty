@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HTTP_Retrofit_Rick_and_Morty</string>
+    <string name="recibir_datos">Recibir_datos</string>
+    <string name="species">Species:</string>
+    <string name="gender">Gender:</string>
+    <string name="status">Status:</string>
+    <string name="name">Name:</string>
+    <string name="id">Id:</string>
+</resources>
