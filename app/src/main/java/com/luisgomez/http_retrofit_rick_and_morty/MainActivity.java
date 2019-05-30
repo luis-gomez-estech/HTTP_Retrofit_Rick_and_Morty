@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
 
               @Override
               public void onResponse(Call<Example> call, Response<Example> response) {
-                  
+
                   if (response.isSuccessful()  && response.body()!=null){
 
                          Example example = response.body();
